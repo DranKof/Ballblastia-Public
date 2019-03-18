@@ -17,7 +17,7 @@ Added cel shading graphics for ball and power-ups, added limit to rejumps
 ### 2019/02/20
 Added a couple more levels
 ### 2019/02/19
-Added shaders for ball, made cameras move smoother, added jumping particles
+Added custom textures/shaders for ball, made cameras move smoother, added jumping particles
 ### 2019/02/18
 Centralized shared code, added main menu
 ### 2019/02/17
