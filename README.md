@@ -1,15 +1,8 @@
 # Ballblastia
 Grab power-ups and bounce your way to the end!
 
-# ================NEWS================
-
-## 2019/03/18
-I decided that I'd rather not have the source open source anymore as the project is coming along. The main project has already been made private and this one has been created to take its place for public feedback.
-
-I've uploaded the most recent public test demo.
-
-As for this most recent update, I've taken this last night out to make a few minor updates, namely to place the actual 3d-ball-preview on the ball select screen.
-
+This is a simple unity game where you control a ball and try to bounce your way through 6 stages.
+There are three balls to choose from that have slightly different physics.
 
 ## Summary of Previous Releases:
 ### 2019/02/21
